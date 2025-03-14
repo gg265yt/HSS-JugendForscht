@@ -27,3 +27,10 @@ p{
     align-items: center;
     justify-content: space-between;
 }
+img{
+    width: 95%;
+    height: ;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    position: relative;
+}
